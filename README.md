@@ -1,4 +1,4 @@
-![logo](
+
 
 <h1 align="center">Hi 👋, I'm ADITI VATS</h1>
 <h3 align="center">A passionate Btechnology undergraduate student at Bennett University</h3>
