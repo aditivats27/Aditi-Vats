@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADITI VATS</h1>
 <h3 align="center">A passionate Btechnology undergraduate student at Bennett University</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcode-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn&psig=AOvVaw3G1zQZ5JoZPlYH8tN-iWxF&ust=1731222894943000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCvg4HazokDFQAAAAAdAAAAABAE"alt="aditivats27" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"alt="aditivats27" /> </p>
 
 - 🔭 I’m currently working on Protein -Protein docking *Structure-Based Protein-Protein Docking and Peptide Inhibition for Therapeutic Complex Modulation*
 
